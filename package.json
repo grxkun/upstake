@@ -1,0 +1,27 @@
+{
+  "name": "upstake",
+  "version": "1.1.4",
+  "description": "Node.js library for automating the restaking process of cryptocurrency",
+  "main": "upstake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grxkun/upstake.git"
+  },
+  "keywords": [
+    "auto",
+    "restaking"
+  ],
+  "author": "grxkun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grxkun/upstake/issues"
+  },
+  "homepage": "https://github.com/grxkun/upstake#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "web3": "^4.7.0"
+  }
+}
