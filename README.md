@@ -29,15 +29,16 @@ upstake.scheduleRestaking(user, interval);
 // Customize restaking strategy
 upstake.customizeRestakingStrategy(user, strategy);
 ```
-Usage: upstake [command]
+// Update for instruction: upstake [command]
 
-Commands:
-  update                     Update something in your package
-  addtoken <token>           Add a new token
-  restake <asset>            Initiate the restaking process for a cryptocurrency asset
-
-Options:
-  --help     Show help                                                 [boolean]
+```
+addtoken <token>                   
+```
+Add a new token
+```
+restake <asset>                  
+```           
+Initiate the restaking process for a cryptocurrency asset
 
 ## Documentation
 
